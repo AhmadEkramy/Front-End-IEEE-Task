@@ -1,0 +1,6 @@
+# Front-End-IEEE-Task
+### Task2:What do you know about the following: arrays, strings, linked lists, and hash tables?
+Arrays: Its size cannot be changed, you can acess it by index.
+Strings: Its a array of chars and it also can be acess it by index.
+Linked lists: Its a dynamic data structure that store elements in nodes that are connected by links using pointers.(It is not fixed like array so you can change its size).
+Hash tables: IDK a lot about hash tables but with some search i found that its provide efficient access to values based on their keys.
