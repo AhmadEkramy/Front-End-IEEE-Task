@@ -1,0 +1,102 @@
+*{
+      margin : 0 ;
+      padding : 0;
+      box-sizing : border-box;
+      scroll-behavior: smooth;
+    }
+    
+    .main {
+      background-color:white;
+      height:500px;
+      padding:110px;
+      display:flex;
+    }
+    .foot{
+      width :100%;
+  position:fixed;
+  z-index:999;
+  display:flex;
+
+      background-color:white;
+    }
+    span {
+      padding-left:60px;
+      padding-top:20px;
+      padding-bottom:20px;
+      font-weight: bold;
+    }
+    h5 {
+      padding-top:20px;
+      padding-bottom:20px;
+      padding-left:40px;
+      color:#BEBEBE;
+    }
+    .img1{
+      border-radius:35px;
+      padding-left:10px;
+      height:445px;
+      width:445px;
+    }
+    .img2{
+      border-radius:25px;
+      padding:10px;
+      height:115px;
+      width:115px;
+    }
+    .pic-row{
+      display:flex;
+    }
+    .mm{
+      padding-left:40px;
+    }
+    h1{
+      padding-left:40px;
+      padding-top:0px;
+    }
+    .img3 {
+       border-radius:25px;
+      padding:10px;
+      height:115px;
+      width:115px;
+       opacity: 0.2;
+       border: 1px solid orange;
+    }
+     .lol1{
+      margin-left:660px;
+      width:30px;
+      hight:30px;
+    }
+    .lol{
+      margin-left:35px;
+      width:30px;
+      hight:30px;
+    }
+    .last {
+       display:flex;
+    }
+    .ll{
+      padding-left:10px;
+      width:25px;
+      hight:25px;
+    }
+    .lo{
+      padding-left:40px;
+      width:70px;
+      hight:25px;
+    }
+    button{
+      width:200px;
+       background-color: #FF8C00; 
+  border: none;
+  color: black;
+      margin-left:20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+      border-radius:16px;
+    }
+    .nm{
+      text-decoration: line-through;
+      padding-left:40px;
+    }
